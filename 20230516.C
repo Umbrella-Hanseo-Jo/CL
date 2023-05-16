@@ -1,3 +1,4 @@
+//Dynamic Matrix Allocation (Rows: i, Columns: j)
 #include <stdio.h>
 #include <stdlib.h>
 
