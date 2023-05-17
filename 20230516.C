@@ -25,7 +25,7 @@ int main() {
     for (int row = 0; row < i; row++) {
         for (int col = 0; col < j; col ++) {
             matrix[row][col] = count;
-            count++; 
+            count++;
         }
     }
 
